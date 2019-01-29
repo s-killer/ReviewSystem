@@ -2,7 +2,8 @@
 1. There is no way to review the services at Government Offices.
 2. Lots of complaints(Long queues, Ideal work stations, Useless complaint box, Corruption, etc)
 
-<b>What the app should sent to the Website/Forum?</b>
+<b>Share your Review to the Website/Forum!</b>
+  with:
 
   1. Photo
   2. Location
@@ -19,7 +20,6 @@
 
 1. No compulsion of registration 
 2. App should be of small size
-3. You can join this project even if you are not Good at programming.
+3. You can contribute to this project even if you are not Good at programming.
 
-Ways to income?
-Google AdSense
+We are building a community, join Tody!
